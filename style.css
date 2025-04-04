@@ -1,14 +1,21 @@
 body {
     background-color: lightblue;
-    margin: 20px
 }
 
-h1, h2 {
-    color: red;
+h2 {
+    color: navy;
     text-align: center;
+    font-size: 30px
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    font_size: 40px;
 }
 
 p {
     font-family: verdana;
-    font-size: 10px;
+    font-size: 20px;
+    text-align: center;
 }
